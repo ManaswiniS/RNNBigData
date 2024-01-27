@@ -1,4 +1,4 @@
-# RNNBigData: Sales Forecasting with Recurrent Neural Networks (RNN)
+# Sales Forecasting with Recurrent Neural Networks (RNN)
 
 Sales forecasting is crucial for business planning and resource optimization. This repository explores the implementation of Long Short-Term Memory (LSTM) within the Recurrent Neural Networks (RNN) framework for time series prediction in sales forecasting. LSTM's ability to capture and remember long-term dependencies in sequential data is particularly relevant for forecasting tasks with inherent temporal patterns. In this project, I utilized 5 years of store item sales data to forecast sales.
 
